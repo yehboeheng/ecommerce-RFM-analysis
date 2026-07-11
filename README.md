@@ -1,6 +1,7 @@
 # 電商顧客分群分析 | E-commerce Customer Segmentation (RFM)
 
 **問題：行銷資源有限，該把預算花在哪些客戶身上？**
+
 以 RFM 模型（Recency、Frequency、Monetary）對線上零售顧客進行分群，
 並透過 Pareto 分析找出高價值客群，作為行銷資源分配的依據。
 
